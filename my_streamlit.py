@@ -28,7 +28,7 @@ if option == "Home":
     image = Image.open('streamlit/baby-7463137_1280.jpg')
 
 
-    st.title("My First Streamlit APP")
+    st.title("My First Cousin APP")
     st.image(image, caption='Sunrise by the mountains', width=200)
 
 
